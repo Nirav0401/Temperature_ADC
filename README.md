@@ -1,4 +1,4 @@
-# Temperature value reading on a ADC Interface using DMA interrupt
+# (Ambient) Temperature value reading on a ADC Interface using DMA interrupt
 
 This example shows how to read temperature value on a ADC (Analog-to-Digital Converter) conversion using DMA (Direct Memory Access) and display them on console log. It's a basic setup that you can build upon STM32 Nucleo Developement Board. 
 
